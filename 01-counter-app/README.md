@@ -8,4 +8,4 @@ A simple counter with increment, decrement, and reset functionality, along with 
 
 ## Acknowledgement
 
-- [100 Days of JavaScript (Ewomazino Akpareva)](https://www.udemy.com/course/100-days-of-javascript)
+- [100 Days of JavaScript (Ewomazino Akpareva) (Udemy)](https://www.udemy.com/course/100-days-of-javascript)
