@@ -1,8 +1,8 @@
 # Random Number Generator
 
-It changes the background color to a random hexadecimal color when the button is clicked, displays the color code, and applies the color on page load.
+Implementation of a modal functionality, where clicking the button opens the modal, and clicking the close icon or the modal itself closes the modal with a sliding animation.
 
-[Run it in Replit](https://replit.com/@soeweiyanphyo/02-random-hex-color-generator)
+[Run it in Replit](https://replit.com/@soeweiyanphyo/04-modal-popup)
 
 ## Acknowledgement
 
