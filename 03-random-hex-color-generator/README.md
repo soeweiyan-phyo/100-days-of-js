@@ -1,4 +1,4 @@
-# Random Number Generator
+# Random Hex Color Generator
 
 It changes the background color to a random hexadecimal color when the button is clicked, displays the color code, and applies the color on page load.
 

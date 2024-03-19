@@ -1,4 +1,4 @@
-# Random Number Generator
+# Palindrome Checker
 
 Checks if the entered word is a palindrome when the button is clicked, and displays the result, by comparing the first half of the word with the reversed second half.
 

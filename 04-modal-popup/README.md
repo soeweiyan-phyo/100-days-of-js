@@ -1,4 +1,4 @@
-# Random Number Generator
+# Modal / Pop Up
 
 Implementation of a modal functionality, where clicking the button opens the modal, and clicking the close icon or the modal itself closes the modal with a sliding animation.
 
